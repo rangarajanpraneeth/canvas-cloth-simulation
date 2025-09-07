@@ -7,3 +7,5 @@ publicPhysicsParameters.gravity = 0;
 ```
 
 The default value is 160 if you want to reset it.
+
+You can also follow the same logic for any other parameter you see in the code.
